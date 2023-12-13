@@ -6,7 +6,7 @@ This is the codebase to go along with tbe blog post [Building a Full Stack NFT M
 
 ### Running this project
 
-#### Gitpod
+#### Gitpod 
 
 To deploy this project to Gitpod, follow these steps:
 
